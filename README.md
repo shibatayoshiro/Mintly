@@ -1,5 +1,9 @@
 # Universal Token Economy
 
+**Languages / Языки / 语言:**  
+[English](README.md) | [Русский](README.ru.md) | [Deutsch](README.de.md) | [中文](README.zh.md)
+
+
 ## Idea  
 Transform every purchase into an investment. A new economic model where each product gets a token and each buyer becomes a micro-investor in the product's success.
 
