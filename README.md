@@ -1,7 +1,7 @@
 # Universal Token Economy
 
 **Languages / Языки / 语言:**  
-[English](README.md) | [Русский](README.ru.md) | [Deutsch](README.de.md) | [中文](README.zh.md)
+[Русский](README.ru.md) | [Deutsch](README.de.md) | [中文](README.zh.md)
 
 
 ## Idea  
