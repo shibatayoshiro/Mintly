@@ -1,6 +1,9 @@
 
 # 通用代币经济（Universal Token Economy）
 
+**Languages / Языки / 语言:**  
+[English](README.md) | [Русский](README.ru.md) | [Deutsch](README.de.md)
+
 ## 💡 概念  
 将每一次消费变成投资。一个新的经济模型，每个商品都拥有自己的代币，每个买家都是该商品成功的微型投资者。
 
