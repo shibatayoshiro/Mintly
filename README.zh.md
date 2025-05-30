@@ -1,5 +1,5 @@
 
-# 通用代币经济（Universal Token Economy）
+# 🌱 Mintly
 
 **Languages / Языки / 语言:**  
 [English](README.md) | [Русский](README.ru.md) | [Deutsch](README.de.md)
