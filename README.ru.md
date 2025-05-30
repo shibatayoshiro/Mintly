@@ -1,5 +1,5 @@
 
-# 🌍 Универсальная Токен-Экономика
+# 🌱 Mintly
 
 **Languages / Языки / 语言:**  
 [English](README.md) | [Deutsch](README.de.md) | [中文](README.zh.md)
