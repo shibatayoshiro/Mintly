@@ -1,4 +1,4 @@
-# Universelle Token-Ökonomie
+# 🌱 Mintly
 
 **Languages / Языки / 语言:**  
 [English](README.md) | [Русский](README.ru.md) | [中文](README.zh.md)
