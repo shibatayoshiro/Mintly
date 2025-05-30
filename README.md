@@ -1,4 +1,4 @@
-# Mintly
+# 🌱 Mintly
 
 **Languages / Языки / 语言:**  
 [Русский](README.ru.md) | [Deutsch](README.de.md) | [中文](README.zh.md)
